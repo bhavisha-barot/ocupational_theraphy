@@ -409,6 +409,10 @@ label.error {
      
       /* .edit-group  */
 
+    .flex-wrap.history-check{
+        margin-top: 15px;
+    }
+
     .flex-wrap.history-check .form-check{
         display: flex;
         align-items: center ;
