@@ -409,7 +409,11 @@ label.error {
      
       /* .edit-group  */
 
-
+    .flex-wrap.history-check .form-check{
+        display: flex;
+        align-items: center ;
+        width: 170px;
+    }
 
 
       /* ====== resposive =========== */
